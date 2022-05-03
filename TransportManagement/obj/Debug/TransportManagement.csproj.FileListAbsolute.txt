@@ -1,0 +1,22 @@
+c:\users\class\documents\visual studio 2015\Projects\TransportManagement\TransportManagement\bin\Debug\TransportManagement.exe.config
+c:\users\class\documents\visual studio 2015\Projects\TransportManagement\TransportManagement\bin\Debug\TransportManagement.exe
+c:\users\class\documents\visual studio 2015\Projects\TransportManagement\TransportManagement\bin\Debug\TransportManagement.pdb
+c:\users\class\documents\visual studio 2015\Projects\TransportManagement\TransportManagement\obj\Debug\TransportManagement.csprojResolveAssemblyReference.cache
+c:\users\class\documents\visual studio 2015\Projects\TransportManagement\TransportManagement\obj\Debug\TransportManagement.Form1.resources
+c:\users\class\documents\visual studio 2015\Projects\TransportManagement\TransportManagement\obj\Debug\TransportManagement.Properties.Resources.resources
+c:\users\class\documents\visual studio 2015\Projects\TransportManagement\TransportManagement\obj\Debug\TransportManagement.csproj.GenerateResource.Cache
+c:\users\class\documents\visual studio 2015\Projects\TransportManagement\TransportManagement\obj\Debug\TransportManagement.exe
+c:\users\class\documents\visual studio 2015\Projects\TransportManagement\TransportManagement\obj\Debug\TransportManagement.pdb
+C:\Users\Class\documents\visual studio 2015\Projects\TransportManagement\TransportManagement\obj\Debug\TransportManagement.ListaRezervari.resources
+C:\Users\Class\documents\visual studio 2015\Projects\TransportManagement\TransportManagement\obj\Debug\TransportManagement.Rezervare.resources
+C:\Users\Tipico Gmbh\Desktop\tested\TransportManagement-master\TransportManagement\bin\Debug\TransportManagement.exe.config
+C:\Users\Tipico Gmbh\Desktop\tested\TransportManagement-master\TransportManagement\bin\Debug\TransportManagement.exe
+C:\Users\Tipico Gmbh\Desktop\tested\TransportManagement-master\TransportManagement\bin\Debug\TransportManagement.pdb
+C:\Users\Tipico Gmbh\Desktop\tested\TransportManagement-master\TransportManagement\obj\Debug\TransportManagement.csprojResolveAssemblyReference.cache
+C:\Users\Tipico Gmbh\Desktop\tested\TransportManagement-master\TransportManagement\obj\Debug\TransportManagement.Form1.resources
+C:\Users\Tipico Gmbh\Desktop\tested\TransportManagement-master\TransportManagement\obj\Debug\TransportManagement.ListaRezervari.resources
+C:\Users\Tipico Gmbh\Desktop\tested\TransportManagement-master\TransportManagement\obj\Debug\TransportManagement.Properties.Resources.resources
+C:\Users\Tipico Gmbh\Desktop\tested\TransportManagement-master\TransportManagement\obj\Debug\TransportManagement.Rezervare.resources
+C:\Users\Tipico Gmbh\Desktop\tested\TransportManagement-master\TransportManagement\obj\Debug\TransportManagement.csproj.GenerateResource.Cache
+C:\Users\Tipico Gmbh\Desktop\tested\TransportManagement-master\TransportManagement\obj\Debug\TransportManagement.exe
+C:\Users\Tipico Gmbh\Desktop\tested\TransportManagement-master\TransportManagement\obj\Debug\TransportManagement.pdb
